@@ -14,3 +14,5 @@ Most of my work lives in private repos of the companies I have built for. The sh
 **Stack:** TypeScript, React, Next.js, Node.js, GraphQL, PostgreSQL, AWS, Docker
 
 📍 Mexico, remote for US timezones · [LinkedIn](https://www.linkedin.com/in/gartox/) · garciatjm@gmail.com
+
+<!-- profile -->
