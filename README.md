@@ -9,7 +9,7 @@ Most of my work lives in private repos of the companies I have built for. The sh
 - 💳 Wallet, biometrics and SPEI transfers at **Valari (YC W22)**
 - 🏥 Currently: architecture for **Abbott's** loyalty platform, via IBM
 - 🤖 Building with LLMs: Claude API, agentic workflows, AI integrations for US startups
-- 🌎 Founder of **XpectreLabs**: nearshoring, IBM as anchor client, 100+ developers mentored across LATAM
+- 🌎 Founder of **XpectreLabs**: nearshoring, 100+ developers mentored across LATAM
 
 **Stack:** TypeScript, React, Next.js, Node.js, GraphQL, PostgreSQL, AWS, Docker
 
